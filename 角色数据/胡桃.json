@@ -1,0 +1,51 @@
+{
+    "name": "胡桃",
+    "title": "雪霁梅香",
+    "country": "璃月",
+    "profile": "「往生堂」七十七代堂主，年纪轻轻就已主掌璃月的葬仪事务",
+    "TAG": [
+        "暴击提升",
+        "烹饪",
+        "生命损耗",
+        "特殊元素附魔",
+        "自身治疗",
+        "自身抗打断",
+        "自身伤害提升",
+        "自身抗性提高",
+        "自身体力消耗降低"
+    ],
+    "gender": "女",
+    "race": "人类",
+    "element": "火",
+    "type": "限定UP",
+    "constellation": "引蝶座",
+    "weapon": "长柄武器",
+    "nicknames": [
+        "堂主",
+        "黑无常",
+        "琪亚娜",
+        "嘘嘘鬼王",
+        "璃月火腿",
+        "薪炎之律者",
+        "提瓦特第一火A"
+    ],
+    "job": "",
+    "CV": "陶典",
+    "birthday": "7月15日",
+    "stories": {
+        "pron": "往生堂第七十七代堂主，掌管堂中事务的少女。身居堂主之位，却没有半分架子。",
+        "1": "丧葬白事，乃是凡人最后的体面。",
+        "2": "好在胡桃对生意尤为重视，从不轻慢。",
+        "3": "总务司门口立着两尊栩栩如生的石狮子，此乃威严之象征。",
+        "4": "相识不久后，胡桃就单方面将七七视为挚友，要亲手埋葬七七。",
+        "5": "胡桃最出名的并非她的堂主身份，而是她的另一大成就：诗歌创作。",
+        "things": "帽子的材质偏硬，正面饰有往生堂的徽记。",
+        "eye": "一切还得从胡桃爷爷的葬礼说起。"
+    },
+    "photos": {
+        "1": "https://patchwiki.biligame.com/images/ys/c/c8/0jmb8q468s1wezd5n9r3npcawz8eua3.png",
+        "2": "https://patchwiki.biligame.com/images/ys/2/27/2lajlkv4483cjv65mf5dgg701squhte.png",
+        "wish": "https://patchwiki.biligame.com/images/ys/f/f8/81z6247pn39kw3iyhss34977vlkxgvd.png"
+    },
+    "star": "5"
+}

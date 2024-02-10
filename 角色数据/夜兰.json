@@ -1,0 +1,48 @@
+{
+    "name": "夜兰",
+    "title": "兰生幽谷",
+    "country": "璃月",
+    "profile": "自称供职于总务司的神秘人士，却又是总务司名录里的「不存在之人」。",
+    "TAG": [
+        "加血",
+        "伤害提升",
+        "派遣",
+        "快速移动",
+        "协同攻击"
+    ],
+    "gender": "女",
+    "race": "人类",
+    "element": "水",
+    "type": "限定UP",
+    "constellation": "幽客座",
+    "weapon": "弓",
+    "nicknames": [
+        "自称就职于总务司的神秘人士",
+        "岩上茶室老板",
+        "情报工作者",
+        "庄家",
+        "兰色妖姬",
+        "\\腋/兰",
+        "夜上海",
+        "胸怀大痣"
+    ],
+    "job": "自称就职于总务司的神秘人士",
+    "CV": "徐慧",
+    "birthday": "4月20日",
+    "stories": {
+        "pron": "璃月总务司的工作公开透明，上至玉京台高官，下至八门基层雇员，都在政务名录中留有基本信息。",
+        "1": "璃月港药铺内偶尔会不定期地出现一类奇怪的伤患。",
+        "2": "摘下所有面具，夜兰的真实身份，正是直属于天权星凝光的特别情报官。",
+        "3": "夜兰常巡游徘徊在层岩巨渊一带，凝视最深处的黑暗。",
+        "4": "总务司手中握有一份特别关注名录。",
+        "5": "别在岩上茶室玩骰子。",
+        "things": "夜兰的情报生涯里，有一次值得铭记的特殊经历，兼具了失败与成功。",
+        "eye": "夜兰不总是独自行动。许久以前，她身边也有肝胆相照的同僚。"
+    },
+    "photos": {
+        "1": "https://patchwiki.biligame.com/images/ys/e/e1/n4zqro7l3mez5ut84ihjfnok8epci7x.png",
+        "2": "https://patchwiki.biligame.com/images/ys/5/52/svbsb24r4gn98gxlltz5f7o3o8rdq82.png",
+        "wish": "https://patchwiki.biligame.com/images/ys/a/a5/hx77v5nkgd0gry1kxro6iu7rmp2qhpk.png"
+    },
+    "star": "5"
+}

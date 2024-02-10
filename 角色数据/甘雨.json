@@ -1,0 +1,48 @@
+{
+    "name": "甘雨",
+    "title": "循循守月",
+    "country": "璃月",
+    "profile": "月海亭的秘书，体内流淌着仙兽「麒麟」的血脉。",
+    "TAG": [
+        "嘲讽",
+        "减抗",
+        "伤害提升",
+        "自身暴击提升",
+        "锻造返还"
+    ],
+    "gender": "女",
+    "race": "半仙（麒麟）",
+    "element": "冰",
+    "type": "限定UP",
+    "constellation": "仙麟座",
+    "weapon": "弓",
+    "nicknames": [
+        "璃月七星的秘书",
+        "椰羊",
+        "王小美",
+        "鸡腿猎人",
+        "咕噜咕噜滚下山真君",
+        "肝雨",
+        "走路上山真君",
+        "通宵熬夜真君"
+    ],
+    "job": "「月海亭」秘书",
+    "CV": "林簌",
+    "birthday": "12月2日",
+    "stories": {
+        "pron": "在璃月，百姓们大多对「玉京台」的生活",
+        "1": "甘雨并非七星中「某一颗星」的秘书，而是辅助「璃月七星」这个整体的秘书。",
+        "2": "「我的工作，是为璃月的多数生命，谋求最大的福祉。」",
+        "3": "千年有多长？",
+        "4": "一旦脱离了工作的范畴，甘雨就很容易显露出本性上的与众不同之处。",
+        "5": "甘雨有着仙兽「麒麟」血脉这件事情，在璃月港鲜为人知。",
+        "things": "记载着玉京台常见植物形态特征及习性的手写册，秀美的字体正是出自甘雨本人的手笔。",
+        "eye": "麒麟是仙兽中的仁兽，饮必甘露，食必嘉禾。"
+    },
+    "photos": {
+        "1": "https://patchwiki.biligame.com/images/ys/0/0a/7bpzoigphsck8n51qlxiwcwgtq6q6oc.png",
+        "2": "https://patchwiki.biligame.com/images/ys/b/b3/4hmr2i7yijkl6b2gyusa4s5jfwktzbg.png",
+        "wish": "https://patchwiki.biligame.com/images/ys/d/da/80cmpy7ubhja1o81nx67709701et0fe.png"
+    },
+    "star": "5"
+}
