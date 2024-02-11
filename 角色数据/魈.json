@@ -1,23 +1,20 @@
 {
-    "name": "魈",
-    "title": "护法夜叉",
-    "country": "璃月",
-    "profile": "守护璃月的仙人，「夜叉」。美号「降魔大圣」，妙称「护法夜叉大将」。",
-    "TAG": [
-        "位移",
-        "攀爬消耗减少",
-        "生命损耗",
-        "特殊元素附魔",
-        "自身伤害提升",
-        "下落免疫"
-    ],
-    "gender": "男",
-    "race": "仙人",
-    "element": "风",
-    "type": "限定UP",
-    "constellation": "金翅鹏王座",
-    "weapon": "长柄武器",
-    "nicknames": [
+    "Name": "魈",
+    "Designation": "护法夜叉",
+    "Fullname": "魈（Xiao）",
+    "Birthday": "4月17日",
+    "Weapon": "长柄武器",
+    "Country": "璃月",
+    "Description": "守护璃月的仙人，「夜叉」。美号「降魔大圣」，妙称「护法夜叉大将」。",
+    "Gender": "男",
+    "Race": "仙人",
+    "Star": "5",
+    "Vision": "风",
+    "Type": "限定UP",
+    "Constellation": "金翅鹏王座",
+    "ActualInstallationTime": "2021年02月03日（1.3版本）",
+    "Job": "",
+    "Nicknames": [
         "降魔大圣",
         "护法夜叉大将",
         "金鹏大将",
@@ -30,23 +27,33 @@
         "成天冷着脸的帅气小哥",
         "杏仁豆腐真君"
     ],
-    "job": "",
-    "CV": "kinsen",
-    "birthday": "4月17日",
-    "stories": {
-        "pron": "外表虽是少年人，魈的真实年纪却已超过两千岁。",
+    "TAG": [
+        "位移",
+        "攀爬消耗减少",
+        "生命损耗",
+        "特殊元素附魔",
+        "自身伤害提升",
+        "下落免疫"
+    ],
+    "Photos": {
+        "1": "https:\/\/patchwiki.biligame.com\/images\/ys\/a\/af\/q4bs39azjximxqs18tymlmsgzyrar90.png",
+        "2": "https:\/\/patchwiki.biligame.com\/images\/ys\/e\/e4\/oaq18xzeu3vy22e8z3da5l5hfk547ug.png",
+        "wish": "https:\/\/patchwiki.biligame.com\/images\/ys\/c\/c7\/aodeicaxmvx44c56cbflizonowwyv9f.png"
+    },
+    "CV": {
+        "Chinese": "kinsen",
+        "Japanese": "松冈祯丞",
+        "Korean": "심규혁",
+        "English": "莱拉·贝尔津什"
+    },
+    "Stories": {
+        "Pron": "外表虽是少年人，魈的真实年纪却已超过两千岁。",
         "1": "魈究竟在与什么战斗？",
         "2": "「魈」并非是这位夜叉的真名，而是某人出于安全考量为他起的假名。",
         "3": "为报答岩之神的恩情，魈接下了守护璃月的千年苦役。",
         "4": "魈究竟在与什么战斗？",
         "5": "魈究竟在与什么战斗？",
-        "things": "须弥教令院的学者曾对璃月进行民俗研究，将结果写成一本名为《琉璃岩间国土纪行》的书，须弥、璃月各存一版。",
-        "eye": "仙人全称是「三眼五显仙人」。「三眼」所指，正是天生双目之外的「神之眼」。"
-    },
-    "photos": {
-        "1": "https://patchwiki.biligame.com/images/ys/a/af/q4bs39azjximxqs18tymlmsgzyrar90.png",
-        "2": "https://patchwiki.biligame.com/images/ys/e/e4/oaq18xzeu3vy22e8z3da5l5hfk547ug.png",
-        "wish": "https://patchwiki.biligame.com/images/ys/c/c7/aodeicaxmvx44c56cbflizonowwyv9f.png"
-    },
-    "star": "5"
+        "Things": "须弥教令院的学者曾对璃月进行民俗研究，将结果写成一本名为《琉璃岩间国土纪行》的书，须弥、璃月各存一版。",
+        "Vision": "仙人全称是「三眼五显仙人」。「三眼」所指，正是天生双目之外的「神之眼」。"
+    }
 }

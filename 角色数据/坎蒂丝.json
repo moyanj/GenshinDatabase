@@ -1,8 +1,24 @@
 {
-    "name": "坎蒂丝",
-    "title": "浮金的誓愿",
-    "country": "须弥",
-    "profile": "有着琥珀色左眼的赤王后裔，阿如村的守护者。",
+    "Name": "坎蒂丝",
+    "Designation": "浮金的誓愿",
+    "Fullname": "坎蒂丝（Candace）",
+    "Birthday": "5月3日",
+    "Weapon": "长柄武器",
+    "Country": "须弥",
+    "Description": "有着琥珀色左眼的赤王后裔，阿如村的守护者。",
+    "Gender": "女",
+    "Race": "人类",
+    "Star": "4",
+    "Vision": "水",
+    "Type": "常驻",
+    "Constellation": "箭盾座",
+    "ActualInstallationTime": "2022年09月28日（3.1版本）",
+    "Job": "阿如村守护者",
+    "Nicknames": [
+        "阿如村守护者",
+        "赤王后裔",
+        "水北斗"
+    ],
     "TAG": [
         "护盾",
         "弹反",
@@ -11,34 +27,25 @@
         "攀爬消耗减少",
         "协同攻击"
     ],
-    "gender": "女",
-    "race": "人类",
-    "element": "水",
-    "type": "常驻",
-    "constellation": "箭盾座",
-    "weapon": "长柄武器",
-    "nicknames": [
-        "阿如村守护者",
-        "赤王后裔",
-        "水北斗"
-    ],
-    "job": "阿如村守护者",
-    "CV": "张琦",
-    "birthday": "5月3日",
-    "stories": {
-        "pron": "拥有异色眼瞳的坎蒂丝担任着阿如村「守护者」一职。",
+    "Photos": {
+        "1": "https:\/\/patchwiki.biligame.com\/images\/ys\/6\/6a\/rd4geg2xan3uvp00k40x0srr81hq9p5.png",
+        "2": "https:\/\/patchwiki.biligame.com\/images\/ys\/6\/6a\/hg4euonfdelaldsu6k3uko37lwmoy9q.png",
+        "wish": "https:\/\/patchwiki.biligame.com\/images\/ys\/1\/17\/tdjj5uuwzq2q3w8lbexrj9ceb8pis9v.png"
+    },
+    "CV": {
+        "Chinese": "张琦",
+        "Japanese": "柚木凉香",
+        "Korean": "全暎洙",
+        "English": "莎蕾·科尔比"
+    },
+    "Stories": {
+        "Pron": "拥有异色眼瞳的坎蒂丝担任着阿如村「守护者」一职。",
         "1": "「阿如村乃是赤王后裔最后的安歇之所。」",
         "2": "村长安普叔宣布一支来自须弥城的商队即将抵达村内进行贸易，那时，前任「守护者」们简直不敢相信自己的耳朵。",
         "3": "事实上，坎蒂丝倒也不常用枪和盾与人争夺话语权。",
         "4": "不遵纪者，将是阿如村的「敌人」。",
         "5": "只有坎蒂丝自己知道，她从未真正感受过阿赫玛尔的恩泽。",
-        "things": "坎蒂丝经常从来访阿如村的客商手里收购各类小饰品。",
-        "eye": "外人纷至沓来，阿如村因而面临各种前所未有的状况。"
-    },
-    "photos": {
-        "1": null,
-        "2": null,
-        "wish": null
-    },
-    "star": "4"
+        "Things": "坎蒂丝经常从来访阿如村的客商手里收购各类小饰品。",
+        "Vision": "外人纷至沓来，阿如村因而面临各种前所未有的状况。"
+    }
 }

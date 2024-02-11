@@ -1,7 +1,7 @@
 import json
 
-f = open("raw.txt").read() # 读取源文件
-f_list = f.splitlines() #分行
+f = open("raw.txt").read()  # 读取源文件
+f_list = f.splitlines()  # 分行
 
 out = []
 i = 1
