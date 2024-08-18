@@ -76,7 +76,7 @@ def getRole(name):
         "Name": name,
         "Designation": getTable(base_rows, 0),
         'Fullname': getTable(base_rows, 1),
-        "Birthday": getTable(info_rows, 7),
+        "Birthday": getTable(info_rows, 6),
         "Weapon": getTable(base_rows, 9).split("武器使用")[0],
         "Country": getTable(base_rows, 2).split("\xa0\xa0")[1],
         "Description": getTable(base_rows, 15),
@@ -105,12 +105,12 @@ def getRole(name):
             "4": getTable(story_rows, 9),
             "5": getTable(story_rows, 11),
             "Things": getTable(story_rows, 13),
-            "Vision": getTable(story_rows, 15),
+            "Vision": getTable(story_rows, 13),
         },
     }
     # time.sleep(random.uniform(0,3))
     json.dump(
-        info, open(f'角色数据/{name.replace("/","_")}.json', "w"), toacill=False, indent=4
+        info, open(f'../角色数据/{name.replace("/","_")}.json', "w"), toacill=False, indent=4
     )
     return info
 
@@ -130,8 +130,8 @@ for role in role_aera:
     elif "派蒙" in role_name:
         continue
     else:
-        if not os.path.exists(f"角色数据/{role_name}.json"):
+        if not os.path.exists(f"../角色数据/{role_name}.json"):
             role_info = getRole(role_name)
             roles[role_name] = role_info
 
-json.dump(roles, open("角色数据/AllData.json", "w"), toacill=False, indent=4)
+json.dump(roles, open("../角色数据/AllData.json", "w"), toacill=False, indent=4)

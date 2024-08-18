@@ -1,0 +1,49 @@
+{
+    "Name": "艾梅莉埃",
+    "Designation": "千缕之踪",
+    "Fullname": "艾梅莉埃（Emilie）",
+    "Birthday": "9月22日",
+    "Weapon": "长柄武器",
+    "Country": "",
+    "Description": "枫丹香水设计师，将秘密藏于瓶中之人。",
+    "Gender": "女",
+    "Race": "人类",
+    "Star": "5",
+    "Vision": "草",
+    "Type": "限定UP",
+    "Constellation": "香氛瓶座",
+    "ActualInstallationTime": "2024年08月06日（4.8版本）",
+    "Job": "",
+    "Nicknames": [
+        "调香师"
+    ],
+    "TAG": [
+        "伤害提升",
+        "抗性提升",
+        "减抗",
+        "技能延长",
+        "自身倍率加成",
+        "特殊元素附魔"
+    ],
+    "Photos": {
+        "1": "https:\/\/patchwiki.biligame.com\/images\/ys\/6\/6a\/a44bcsoongr43dwtsdw8fd9p3fagva5.png",
+        "2": "https:\/\/patchwiki.biligame.com\/images\/ys\/f\/f0\/h71b1q7d317xeeid6aqzgmlen5tg3lg.png",
+        "wish": "https:\/\/patchwiki.biligame.com\/images\/ys\/6\/61\/tixmb998eyafd8tr6potqe5j3pt761b.png"
+    },
+    "CV": {
+        "Chinese": "木子橙",
+        "Japanese": "日笠阳子",
+        "Korean": "权觰壡",
+        "English": "安柏·阿维尔斯"
+    },
+    "Stories": {
+        "Pron": "若从一瓶香水说起，谈话可以持续很久。",
+        "1": "将签字盖章过的委托书与保密协议交由执律庭的警官过目后，艾梅莉埃越过警戒线，进入现场。",
+        "2": "按照某种心理学上的理论，富有创造力的人似乎更不重视身边物品的摆放与规划。枫丹杂志或者小报的角落里常常刊登类似的性格分析短文，隔三差五还会重复出现，好像编辑们觉得人们就是喜欢靠这些碎片拼凑对自己的理解，并且记忆力欠佳。",
+        "3": "空闲的时候，艾梅莉埃常去父母家共进晚餐。",
+        "4": "生活是不公的，不是所有人都有享受爱好的余裕。艾梅莉埃格外珍惜这样的机会。",
+        "5": "人们常会假设一些群体性的规律，去试图解释某些现象。",
+        "Things": "特巡队队长夏沃蕾曾评价艾梅莉埃：不是一个浪漫的人。",
+        "Vision": "特巡队队长夏沃蕾曾评价艾梅莉埃：不是一个浪漫的人。"
+    }
+}

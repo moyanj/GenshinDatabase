@@ -1,0 +1,49 @@
+{
+    "Name": "赛索斯",
+    "Designation": "衡明知度",
+    "Fullname": "赛索斯（Sethos）",
+    "Birthday": "5月31日",
+    "Weapon": "弓",
+    "Country": "",
+    "Description": "缄默之殿的继承者。背负着秘密，自沙中而来。",
+    "Gender": "男",
+    "Race": "人类",
+    "Star": "4",
+    "Vision": "雷",
+    "Type": "常驻",
+    "Constellation": "圣名环座",
+    "ActualInstallationTime": "2024年06月05日（4.7版本）",
+    "Job": "",
+    "Nicknames": [
+        "sss"
+    ],
+    "TAG": [
+        "能量恢复",
+        "特殊元素附魔",
+        "伤害提升",
+        "自身暴击率提升",
+        "精通加成",
+        "特产探索"
+    ],
+    "Photos": {
+        "1": "https:\/\/patchwiki.biligame.com\/images\/ys\/8\/82\/le4qmtgk1gjxkaet2hiso7ybiyqqd8m.png",
+        "2": "https:\/\/patchwiki.biligame.com\/images\/ys\/3\/3b\/bgrxyp3qlpp7lqwy7mcswv99mvj5fk8.png",
+        "wish": "https:\/\/patchwiki.biligame.com\/images\/ys\/2\/2f\/o6e3tvf3hpb4848bc6rtiwlo3cesuru.png"
+    },
+    "CV": {
+        "Chinese": "李兰陵",
+        "Japanese": "千叶翔也",
+        "Korean": "金东炫",
+        "English": "泽诺·罗宾森"
+    },
+    "Stories": {
+        "Pron": "不知从哪天开始，城里多出一张新面孔。",
+        "1": "城里人很少见到赛索斯全力奔跑。事实上这个年轻小伙跑起来速度一流，谁要是想追上他，可能得有风的速度。",
+        "2": "喝醉的酒友们不可能记得赛索斯故事中描述的世外高人。掌管着宝库钥匙的神秘来客，这一说辞也就兰巴德老板记得。他问前来喝酒或吃饭的客人：「这是我从讲故事的人嘴里听来的，你们说，世上真能有这种事吗？」",
+        "3": "在须弥，研究赤王文明的学者与能熟练诵读赤王阿赫玛尔及其麾下七柱名号的追随者都理解「缄默之殿」的意义。",
+        "4": "缄默之殿前代首领巴穆恩被称作「背负血腥之人」。这一称号因何而来，赛索斯并不清楚，也不那么关心。",
+        "5": "许多个夜晚，赛索斯都说起同一个词：朋友。",
+        "Things": "一只兽皮制成的老水囊。若以年份来算，它的寿命比赛索斯还长些。赛索斯非常珍惜它，时刻带在身旁。",
+        "Vision": "一只兽皮制成的老水囊。若以年份来算，它的寿命比赛索斯还长些。赛索斯非常珍惜它，时刻带在身旁。"
+    }
+}

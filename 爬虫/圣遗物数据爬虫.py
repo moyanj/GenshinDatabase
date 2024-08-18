@@ -20,7 +20,7 @@ def GetRole(name):
         "story": storise,
         "TAG": role_soup.find('div','tag').text.split('：')[1].split('、'),
     }
-    jsons.dump_f(ret, "圣遗物数据/" + name + ".json", indent=4, toacill=False)
+    jsons.dump_f(ret, "../圣遗物数据/" + name + ".json", indent=4, toacill=False)
     return ret
 
 

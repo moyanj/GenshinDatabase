@@ -4,7 +4,7 @@
     "Fullname": "长野原宵宫（Naganohara Yoimiya）",
     "Birthday": "6月21日",
     "Weapon": "弓",
-    "Country": "稻妻",
+    "Country": "",
     "Description": "「长野原烟花店」店长，「夏祭的女王」，将人们的愿望寄托于烟花中的能工巧匠。",
     "Gender": "女",
     "Race": "人类",
@@ -30,7 +30,7 @@
     "Photos": {
         "1": "https:\/\/patchwiki.biligame.com\/images\/ys\/7\/71\/97xepcaijrwp2w0au37pnrxb4qluf8d.png",
         "2": "https:\/\/patchwiki.biligame.com\/images\/ys\/f\/f9\/5sozren3l58ad56quvtotq8xj8n577d.png",
-        "wish": "https:\/\/patchwiki.biligame.com\/images\/ys\/c\/ca\/8esc3ml0s4l4shgvclaljvm7bmjti10.png"
+        "wish": "https:\/\/patchwiki.biligame.com\/images\/ys\/c\/ca\/ak7wbwvs5dohk0o00ta1p16cw7mqhy5.png"
     },
     "CV": {
         "Chinese": "金娜",
@@ -46,6 +46,6 @@
         "4": "平时的「长野原烟花店」除了贩卖烟花，还会出售各种精巧的纪念品。可以说，这些纪念品就是宵宫的第二事业。",
         "5": "「霞彩焕花火，花火知我愿，我愿入夜空，夜空自甄明。」",
         "Things": "每逢祭典，宵宫除了尝遍所有摊位的点心，还会收集各种糖果，将它们细心包好，暂时放到小巧的糖果盒中保存起来。",
-        "Vision": "宵宫随时都能侃侃而谈，唯独烟花升空时，她会罕见地沉默下来，仰头观看空中美景。"
+        "Vision": "每逢祭典，宵宫除了尝遍所有摊位的点心，还会收集各种糖果，将它们细心包好，暂时放到小巧的糖果盒中保存起来。"
     }
 }

@@ -1,0 +1,54 @@
+{
+    "Name": "克洛琳德",
+    "Designation": "秉烛狝影",
+    "Fullname": "克洛琳德（Clorinde）",
+    "Birthday": "9月20日",
+    "Weapon": "单手剑",
+    "Country": "",
+    "Description": "不败的决斗代理人。以手中的剑维护着枫丹廷的「公义」。",
+    "Gender": "女",
+    "Race": "人类",
+    "Star": "5",
+    "Vision": "雷",
+    "Type": "限定UP",
+    "Constellation": "迅捷剑座",
+    "ActualInstallationTime": "2024年06月05日（4.7版本）",
+    "Job": "决斗代理人",
+    "Nicknames": [
+        "枫丹雷神",
+        "美玉"
+    ],
+    "TAG": [
+        "自身治疗",
+        "自身伤害提升",
+        "自身暴击率提升",
+        "自身暴击伤害提升",
+        "特殊附魔",
+        "协同攻击",
+        "伤害减免",
+        "生命之契",
+        "自身抗打断",
+        "特产探索"
+    ],
+    "Photos": {
+        "1": "https:\/\/patchwiki.biligame.com\/images\/ys\/b\/b7\/ttjbd1yjyxb8x4vkyufw3mlnozzrf8r.png",
+        "2": "https:\/\/patchwiki.biligame.com\/images\/ys\/9\/91\/rbdy599dw8ivcvy61wfhnyvy3a1qo6f.png",
+        "wish": "https:\/\/patchwiki.biligame.com\/images\/ys\/9\/99\/lp20ww7qqzy8q6ctnam5q2fm6stegrp.png"
+    },
+    "CV": {
+        "Chinese": "赵涵雨",
+        "Japanese": "石川由依",
+        "Korean": "申娜利",
+        "English": "克里斯特尔·李"
+    },
+    "Stories": {
+        "Pron": "在热闹的枫丹廷里，几乎每天都产生着各类纠纷。",
+        "1": "无论对于那些不幸和克洛琳德在决斗中交手的人，还是在看台上旁观过克洛琳德决斗的人来说，「如果遇见克洛琳德，最好立即接受判决」都绝对不是一句玩笑话。",
+        "2": "克洛琳德决斗时的风采，也为她吸引了无数拥趸。",
+        "3": "事实上，克洛琳德确实和那些怪力乱神之说没有任何关系。",
+        "4": "当「桌上剧团」俱乐部的老板初次看见克洛琳德光顾时，很是不知所措。",
+        "5": "在克洛琳德看来，逐影猎人们和决斗代理人的职责并无差异。",
+        "Things": "要说克洛琳德最为标志的装扮，那莫过于垂落在她身后的那件窄式披风了。",
+        "Vision": "要说克洛琳德最为标志的装扮，那莫过于垂落在她身后的那件窄式披风了。"
+    }
+}

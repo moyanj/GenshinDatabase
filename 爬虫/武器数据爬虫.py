@@ -18,7 +18,7 @@ def GetRole(name):
         "type": role_data[2].text,
         "TAG": role_data[3].text.split("、"),
     }
-    jsons.dump_f(ret, "武器数据/" + name + ".json", indent=4, toacill=False)
+    jsons.dump_f(ret, "../武器数据/" + name + ".json", indent=4, toacill=False)
     return ret
 
 
